@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateInMemory", "NHibernateInMemory\NHibernateInMemory.csproj", "{563C5D44-8548-496A-B853-175F9607335F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateInMemoryTests", "NHibernateInMemoryTests\NHibernateInMemoryTests.csproj", "{A2E81C7F-DF93-4824-9B1E-E860FC411887}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{563C5D44-8548-496A-B853-175F9607335F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{563C5D44-8548-496A-B853-175F9607335F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{563C5D44-8548-496A-B853-175F9607335F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E81C7F-DF93-4824-9B1E-E860FC411887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E81C7F-DF93-4824-9B1E-E860FC411887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E81C7F-DF93-4824-9B1E-E860FC411887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E81C7F-DF93-4824-9B1E-E860FC411887}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
